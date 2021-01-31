@@ -1,1 +1,1 @@
-# ds_utils
+Data Sciente Utils is a module with some useful functions for beginers data scientist
